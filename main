@@ -38,5 +38,4 @@ def main():
         
     save_to_csv(all_data, 'quotes.csv')
 
-if __name__ == '__main__':
-    main()
+main()
